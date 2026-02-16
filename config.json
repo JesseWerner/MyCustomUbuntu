@@ -1,0 +1,8 @@
+{
+  "base": "debian",
+  "packages": [],
+  "hostname": "DebianKDE",
+  "locale": "en_US.UTF-8",
+  "timezone": "UTC",
+  "desktopEnvironment": "kde"
+}
